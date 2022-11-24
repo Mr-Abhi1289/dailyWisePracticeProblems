@@ -1,0 +1,2 @@
+randomcheck=$((RANDOM%9))
+
